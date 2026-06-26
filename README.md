@@ -54,8 +54,20 @@ TopScorersFrame:Swing window that displays the Top 5 highest-scoring players usi
 
 
 ## Screenshots
-Login: <img width="215" height="109" alt="image" src="https://github.com/user-attachments/assets/808d9b19-de3c-4219-93f4-0e13239b5d0a" />
+Login: 
+<img width="215" height="109" alt="image" src="https://github.com/user-attachments/assets/808d9b19-de3c-4219-93f4-0e13239b5d0a" />
 
+Main menu:
+<img width="213" height="159" alt="image" src="https://github.com/user-attachments/assets/94bb019a-7392-47bc-8881-507f4f2dd262" />
+
+Tic Tac Toe Game:
+<img width="290" height="345" alt="image" src="https://github.com/user-attachments/assets/860ba32d-4b49-438f-a232-819cfa67dd6b" />
+
+User statistic:
+<img width="212" height="176" alt="image" src="https://github.com/user-attachments/assets/863779a0-559d-4152-9c53-6d16b24bfc8c" />
+
+Top 5 scorer:
+<img width="362" height="178" alt="image" src="https://github.com/user-attachments/assets/9d5004e3-4e9f-4674-a16d-20be24325752" />
 
 
 ## Video Link
