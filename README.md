@@ -54,10 +54,11 @@ TopScorersFrame:Swing window that displays the Top 5 highest-scoring players usi
 
 
 ## Screenshots
-Add screenshots here.
+Login: <img width="215" height="109" alt="image" src="https://github.com/user-attachments/assets/808d9b19-de3c-4219-93f4-0e13239b5d0a" />
+
 
 
 ## Video Link
-YouTube:
+YouTube: https://youtu.be/g4UWnZfsxR4 
 
 
